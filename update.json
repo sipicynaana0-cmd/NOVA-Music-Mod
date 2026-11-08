@@ -1,10 +1,14 @@
 {
-  "version": "6.45",
-  "date": "08.11.2026",
-  "downloadUrl": "https://github.com/sipicynaana0-cmd/NOVA-Music-Mod/releases/latest",
-  "notes": [
-    "FIXED: обновление теперь реально устанавливается — подмена файла выполняется скриптом с параметрами",
-    "FIXED: кириллица в путях больше не ломает автообновление",
-    "IMPROVED: пошаговый лог установки nova_updater.log"
-  ]
+    "date":  "08.11.2026",
+    "sha256":  "40a7f77fc9122498241cb86351e44aafba705f6a11a56bed95eede624445e39a",
+    "version":  "6.46",
+    "downloadUrl":  "https://github.com/sipicynaana0-cmd/NOVA-Music-Mod/releases/latest",
+    "notes":  [
+                  "NEW: фоновое видео полностью удалено — спокойный тёмный статичный фон",
+                  "IMPROVED: новая палитра Premium Minimal Dark во всём интерфейсе",
+                  "SECURITY: контрольная сумма обновления (sha256) проверяется перед установкой",
+                  "SECURITY: проверка свободного места на диске перед установкой",
+                  "FIX: клик по всей строке трека запускает воспроизведение",
+                  "IMPROVED: производительность — таймеры прорежены, мёртвый код удалён"
+              ]
 }
