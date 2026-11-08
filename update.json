@@ -1,10 +1,10 @@
 {
     "date":  "08.11.2026",
-    "sha256":  "154101adac732b6f22fe17939b958917f057f55d3d6977eb30f2aa56c3b7be52",
-    "version":  "6.50",
+    "sha256":  "20baae9f22169221e942fb9e8aaefad1a3519b6922a3a012cf2836aec1ad4ab7",
+    "version":  "6.51",
     "downloadUrl":  "https://github.com/sipicynaana0-cmd/NOVA-Music-Mod/releases/latest",
     "notes":  [
-                  "NEW: проверка полного автоматического цикла обновления",
-                  "IMPROVED: стабильность установки финального шага"
+                  "FIXED: чистка бэкапов больше не удаляет основной файл приложения (wildcard-баг)",
+                  "FIXED: исправлена первая строка установочного скрипта"
               ]
 }
